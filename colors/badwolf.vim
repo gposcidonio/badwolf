@@ -255,7 +255,7 @@ call s:HL('Todo',           'taffy')
 call s:HL('SpecialComment', 'brightgravel', 'bg', 'bold')
 
 " Strings are a nice, pale straw color.  Nothing too fancy.
-call s:HL('String', 'dirtyblonde', 'italic')
+call s:HL('String', 'dirtyblonde', 'bg', 'italic')
 
 " Control flow stuff is taffy.
 call s:HL('Statement',   'taffy', '', 'bold')
